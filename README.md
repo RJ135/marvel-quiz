@@ -5,10 +5,10 @@
 Followed by a tutorial for the realization of a quiz application on the Marvel universe
 (Donkey Geek)
 
+* ReactJs https://fr.reactjs.org/
 * Hosting at Firebase https://firebase.google.com/
 * Cloud Firestore Database
 * Connexion to Marvel Comics API https://developer.marvel.com/
-* ReactJs https://fr.reactjs.org/
 * CSS3
 
 ### Welcome
