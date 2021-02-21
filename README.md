@@ -24,8 +24,9 @@
 Followed by a tutorial for the realization of a quiz application on the Marvel universe
 (Donkey Geek)
 
-- Hosting at Firebase https://firebase.google.com/
-- Connexion to Marvel Comics API https://developer.marvel.com/
+* Hosting at Firebase https://firebase.google.com/
+* Cloud Firestore Database
+* Connexion to Marvel Comics API https://developer.marvel.com/
 
 
 ## Technologies
