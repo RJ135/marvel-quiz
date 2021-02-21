@@ -1,4 +1,4 @@
-#Marvel Quiz
+# Marvel Quiz
 
 ### Welcome
 ![welcome_page](https://user-images.githubusercontent.com/48568104/108630536-89f53700-7465-11eb-86de-f1500283f8dd.png)
@@ -19,7 +19,7 @@
 ![info_modal](https://user-images.githubusercontent.com/48568104/108630586-d0e32c80-7465-11eb-8a4b-d1c30e917bc7.png)
 
 
-##General info
+## General info
 
 Followed by a tutorial for the realization of a quiz application on the Marvel universe
 (Donkey Geek)
@@ -28,7 +28,7 @@ Followed by a tutorial for the realization of a quiz application on the Marvel u
 - Connexion to Marvel Comics API https://developer.marvel.com/
 
 
-##Technologies
+## Technologies
 
-- React Js
-- CSS3
+* React Js
+* CSS3
