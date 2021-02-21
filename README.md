@@ -1,5 +1,16 @@
 # Marvel Quiz
 
+## General info
+
+Followed by a tutorial for the realization of a quiz application on the Marvel universe
+(Donkey Geek)
+
+* Hosting at Firebase https://firebase.google.com/
+* Cloud Firestore Database
+* Connexion to Marvel Comics API https://developer.marvel.com/
+* ReactJs https://fr.reactjs.org/
+* CSS3
+
 ### Welcome
 ![welcome_page](https://user-images.githubusercontent.com/48568104/108630536-89f53700-7465-11eb-86de-f1500283f8dd.png)
 
@@ -18,18 +29,3 @@
 ### Infos Modal
 ![info_modal](https://user-images.githubusercontent.com/48568104/108630586-d0e32c80-7465-11eb-8a4b-d1c30e917bc7.png)
 
-
-## General info
-
-Followed by a tutorial for the realization of a quiz application on the Marvel universe
-(Donkey Geek)
-
-* Hosting at Firebase https://firebase.google.com/
-* Cloud Firestore Database
-* Connexion to Marvel Comics API https://developer.marvel.com/
-
-
-## Technologies
-
-* React Js
-* CSS3
